@@ -19,7 +19,6 @@ public class MantisTests {
         String usuario = "grupoAzulAgua";
         String senha = "123456";
         String mensagem = "teste";
-        String nomeUsuarioEsperado = "grupoAzulAgua ( Grupo Azul Agua )";
 
         //Abrir o Chrome e Navega para o mantis
         WebDriver chrome = new ChromeDriver();
